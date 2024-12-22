@@ -1,5 +1,5 @@
 ### 🌟 About Me  
-Hello! I'm **Nqobile Thabo Buthelezi**, a creative and determined **QA Automation Engineer** and **Web Developer**. I'm passionate about solving problems through code, designing responsive web applications, and exploring innovative technologies like AI and automation.
+Hi my name is **Nqobile Thabo Buthelezi**, and I am creative and determined **QA Automation Engineer** and **Web Developer**. I'm passionate about solving problems through code, designing responsive web applications, and exploring innovative technologies like AI and automation.
 
 ### 🛠️ What I Do  
 - 🌍 Building seamless digital solutions for a sustainable future.  
@@ -13,8 +13,6 @@ When I'm not writing code, you can find me:
 - 🎶 Relaxing to the sounds of R&B, neo-soul and experimental music.
 
 ### 🌐 Let's Connect
-- 📖 Diving into books on personal development and technology.
-- Email: nqobilethabobuthelezi@gmail.com
 - LinkedIn: [[Your LinkedIn Profile Link]]https://www.linkedin.com/in/nqobile-thabo-buthelezi-552b16256/
 
 ### 💻 Tech Stack
