@@ -25,3 +25,6 @@ Here are some tools and technologies I work with:
 - Other: HTML5, CSS3, SQL
 
 ### 📊 GitHub Stats
+
+![Your stats](https://github-readme-stats.vercel.app/api?username=Nqobile-Buthelezi&show_icons=true&hide_title=true)
+
