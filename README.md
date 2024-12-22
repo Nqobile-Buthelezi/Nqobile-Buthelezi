@@ -13,7 +13,7 @@ When I'm not writing code, you can find me:
 - 🎶 Relaxing to the sounds of R&B, neo-soul and experimental music.
 
 ### 🌐 Let's Connect
-- LinkedIn: [[Your LinkedIn Profile Link]]https://www.linkedin.com/in/nqobile-thabo-buthelezi-552b16256/
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nqobile-thabo-buthelezi-552b16256/)
 
 ### 💻 Tech Stack
 Here are some tools and technologies I work with:
